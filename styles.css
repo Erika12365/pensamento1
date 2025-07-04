@@ -9,5 +9,8 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgba(226, 43, 186, 0.925);
-    background-color: violet;
+}
+    
+section {
+background-color: rgb(184, 156,213);
 }
