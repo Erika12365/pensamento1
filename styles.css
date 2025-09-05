@@ -39,3 +39,6 @@ img{
 . categoria-videos{ 
     display: flex;
 }
+section{
+    padding-left: 20px;
+}
