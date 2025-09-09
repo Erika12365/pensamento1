@@ -38,9 +38,5 @@ img{
 
 . categoria-videos{ 
     display: flex;
-    overflow-x: ;
-}
-.categoria{
-    padding-left: 20px;
-    padding-right: 20px;
+    overflow-x: auto;
 }
